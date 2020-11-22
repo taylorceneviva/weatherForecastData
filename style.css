@@ -1,0 +1,17 @@
+/* Jumbotron Style */  
+.jumbotron {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin-bottom: 2%;
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+/* card style */  
+.col-md-12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
